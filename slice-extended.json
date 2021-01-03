@@ -1,0 +1,28 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://git.io/JLdyQ",
+        "location": " ",
+        "social": {
+            "twitter_handle": "always1percent",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "SLICE",
+            "city": "",
+            "state": "",
+            "country": "USA"
+        },
+        "about": {
+            "me": "SLICE",
+            "server": "247 cloud VPS.",
+            "mission": "ADA adoption one SLICE at a time.",
+            "company": ""
+        }
+    }
+
+}
