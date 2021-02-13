@@ -1,9 +1,9 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://git.io/JtBpj",
+        "url_png_icon_64x64": "https://git.io/Jti6G",
         "location": " ",
         "social": {
-            "twitter_handle": "SliceStakePool",
+            "twitter_handle": "AlienStakePool",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -12,15 +12,15 @@
             "github_handle": ""
         },
         "company": {
-            "name": "SLICE",
+            "name": "ALIEN",
             "city": "",
             "state": "",
             "country": "USA"
         },
         "about": {
-            "me": "SLICE",
+            "me": "ALIEN",
             "server": "247 cloud VPS.",
-            "mission": "ADA adoption one SLICE at a time.",
+            "mission": "Enhance adoption of ADA and share Cardano culture.",
             "company": ""
         }
     }
