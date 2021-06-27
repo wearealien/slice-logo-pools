@@ -1,9 +1,9 @@
 {
     "info": {
-        "url_png_icon_64x64": "https://git.io/JtBpj",
+        "url_png_icon_64x64": "",
         "location": " ",
         "social": {
-            "twitter_handle": "thepizzapool",
+            "twitter_handle": "",
             "telegram_handle": "",
             "facebook_handle": "",
             "youtube_handle": "",
@@ -12,16 +12,16 @@
             "github_handle": ""
         },
         "company": {
-            "name": "Cardano PIZZA  Pool",
+            "name": "",
             "city": "",
             "state": "",
-            "country": "USA"
+            "country": ""
         },
         "about": {
-            "me": "Cardano PIZZA  Pool",
-            "server": "247 cloud VPS.",
-            "mission": "Building Cardano's culture and smiles one Pizz₳ at a time. Architects of @Cardano_Pizza challenge and Cardano Pizza Day celebrated annually on November 27th.",
-            "company": "Pizz₳"
+            "me": "",
+            "server": "",
+            "mission": "",
+            "company": ""
         }
     }
 
